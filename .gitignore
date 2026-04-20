@@ -25,3 +25,7 @@ build/
 # Test coverage
 .coverage
 htmlcov/
+
+。
+# .claude
+.claude/
